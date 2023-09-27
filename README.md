@@ -1,2 +1,2 @@
 # tekton
-tekton auto build git
+tekton auto build git webhook
